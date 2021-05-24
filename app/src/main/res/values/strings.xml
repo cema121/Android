@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="editText">Введите имя</string>
+    <string name="Switch">Переключатель</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="enterTxt">введите текст</string>
+    <string name="enterName">введите имя</string>
+    <string name="phone">телефон</string>
+    <string name="number">номер</string>
+    <string name="pass">пароль</string>
+    <string name="mail">почта</string>
 </resources>
